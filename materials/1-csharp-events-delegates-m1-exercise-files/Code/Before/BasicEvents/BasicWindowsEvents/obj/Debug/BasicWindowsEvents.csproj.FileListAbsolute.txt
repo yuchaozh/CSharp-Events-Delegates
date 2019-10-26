@@ -1,0 +1,9 @@
+C:\Users\Dan\Desktop\Code\Before\BasicWebEvents\BasicWindowsEvents\bin\Debug\BasicWindowsEvents.exe.config
+C:\Users\Dan\Desktop\Code\Before\BasicWebEvents\BasicWindowsEvents\bin\Debug\BasicWindowsEvents.exe
+C:\Users\Dan\Desktop\Code\Before\BasicWebEvents\BasicWindowsEvents\bin\Debug\BasicWindowsEvents.pdb
+C:\Users\Dan\Desktop\Code\Before\BasicWebEvents\BasicWindowsEvents\obj\Debug\BasicWindowsEvents.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Desktop\Code\Before\BasicWebEvents\BasicWindowsEvents\obj\Debug\BasicWindowsEvents.Form1.resources
+C:\Users\Dan\Desktop\Code\Before\BasicWebEvents\BasicWindowsEvents\obj\Debug\BasicWindowsEvents.Properties.Resources.resources
+C:\Users\Dan\Desktop\Code\Before\BasicWebEvents\BasicWindowsEvents\obj\Debug\BasicWindowsEvents.csproj.GenerateResource.Cache
+C:\Users\Dan\Desktop\Code\Before\BasicWebEvents\BasicWindowsEvents\obj\Debug\BasicWindowsEvents.exe
+C:\Users\Dan\Desktop\Code\Before\BasicWebEvents\BasicWindowsEvents\obj\Debug\BasicWindowsEvents.pdb
