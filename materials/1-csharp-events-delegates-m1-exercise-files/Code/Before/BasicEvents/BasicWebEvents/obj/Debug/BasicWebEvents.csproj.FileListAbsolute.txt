@@ -3,3 +3,9 @@ C:\Users\Dan\Desktop\Code\Before\BasicWebEvents\BasicWebEvents\bin\BasicWebEvent
 C:\Users\Dan\Desktop\Code\Before\BasicWebEvents\BasicWebEvents\obj\Debug\BasicWebEvents.csprojResolveAssemblyReference.cache
 C:\Users\Dan\Desktop\Code\Before\BasicWebEvents\BasicWebEvents\obj\Debug\BasicWebEvents.dll
 C:\Users\Dan\Desktop\Code\Before\BasicWebEvents\BasicWebEvents\obj\Debug\BasicWebEvents.pdb
+D:\Github\csharp-events-delegates\CSharp-Events-Delegates\materials\1-csharp-events-delegates-m1-exercise-files\Code\Before\BasicEvents\BasicWebEvents\bin\BasicWebEvents.dll.config
+D:\Github\csharp-events-delegates\CSharp-Events-Delegates\materials\1-csharp-events-delegates-m1-exercise-files\Code\Before\BasicEvents\BasicWebEvents\bin\BasicWebEvents.dll
+D:\Github\csharp-events-delegates\CSharp-Events-Delegates\materials\1-csharp-events-delegates-m1-exercise-files\Code\Before\BasicEvents\BasicWebEvents\bin\BasicWebEvents.pdb
+D:\Github\csharp-events-delegates\CSharp-Events-Delegates\materials\1-csharp-events-delegates-m1-exercise-files\Code\Before\BasicEvents\BasicWebEvents\obj\Debug\BasicWebEvents.csprojAssemblyReference.cache
+D:\Github\csharp-events-delegates\CSharp-Events-Delegates\materials\1-csharp-events-delegates-m1-exercise-files\Code\Before\BasicEvents\BasicWebEvents\obj\Debug\BasicWebEvents.dll
+D:\Github\csharp-events-delegates\CSharp-Events-Delegates\materials\1-csharp-events-delegates-m1-exercise-files\Code\Before\BasicEvents\BasicWebEvents\obj\Debug\BasicWebEvents.pdb
